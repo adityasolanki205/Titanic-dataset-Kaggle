@@ -8,9 +8,9 @@
 
     1. Titanic prediction.ipynb
     
-    3. Train.csv
+    2. Train.csv
     
-    4. Test.csv
+    3. Test.csv
     
-    5. output.css
+    4. output.css
    
